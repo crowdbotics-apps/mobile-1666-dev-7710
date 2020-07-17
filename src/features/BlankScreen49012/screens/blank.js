@@ -23,10 +23,10 @@ export class _Blank extends React.Component {
   }
 
   state = {
-    Input_3: "",
-    Datepicker_5: new Date("07/17/2020"),
-    Input_4: "",
-    Input_6: ""
+    Input_3: "ytjtuytutyututututuyt",
+    Datepicker_5: new Date("07/17/2024"),
+    Input_4: "656565767676",
+    Input_6: "tretyetretrev jytryutuyt jyutryurutr hgfgfhgf hgfhfhg hgfhgfgh"
   }
 
   render = () => (
